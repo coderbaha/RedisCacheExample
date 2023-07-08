@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "v6+hW65jke1cm9+NSpUNtQWjoqlS2jZd8bGVh0R2P2Q=",
+  "Source": "RedisCacheExample",
+  "BasePath": "_content/RedisCacheExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
